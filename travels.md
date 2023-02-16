@@ -1,10 +1,38 @@
 # A brief review of my travels
 
 ## Contents
+- [Travel social media](#Travel-social-media)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
+
+## Travel social media
+
+> My Telegram blog. In it I post notes about my current travels 
+- https://t.me/letgoletgo
+---
+
+> When I travel, I make travel notes and then update the OSM map
+- https://openstreetmap.org/user/fenestrono/
+---
+
+> My couchsurfing profile
+- https://couchsurfing.com/people/fenestron
+---
+
+> I love getting to know nature. That's why I take pictures of plants, animals and insects
+- https://inaturalist.org/people/fenestron
+---
+
+> My instagram. There's much less information here than on Telegram, but let it be here
+- https://instagram.com/fenestrono
+---
+
+> I also sometimes play Geocaching. 
+- https://geocaching.su/profile.php?uid=141955
+- https://geokrety.org/mypage.php?userid=45323
+
 
 ## 2023
 
