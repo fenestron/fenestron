@@ -10,7 +10,7 @@
 ## Travel social media
 
 > My Telegram blog. In it I post notes about my current travels 
-- https://t.me/letgoletgo
+- https://t.me/itbomj
 ---
 
 > When I travel, I make travel notes and then update the OSM map
@@ -35,6 +35,15 @@
 
 
 ## 2023
+
+### 👍 3300+ km hitchhiking across Turkey
+| Dates                 	| Region   	|
+|-----------------------	|----------	|
+| January 8 - February 8 	| Turkey  	|
+
+Video: Coming soon
+
+---
 
 ## 2022
 
